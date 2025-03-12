@@ -32,5 +32,11 @@ buttons.forEach(function(button){
    });
 });
 
+```
+
+## project 2 (BMI Generator)
+
+```javascript
+console.log("project 2 ka solution ");
 
 ```
